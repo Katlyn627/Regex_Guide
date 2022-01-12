@@ -93,10 +93,10 @@ I am a Colorado native and current student at the University of Denver enrolled 
 
 After graduating from culinary school with a Bachelor's of Science in Food Service Management I decided on broadening my horizons and seeing the world. I am a travel enthusiast with skills in business, marketing, and computer programming. I spent the last 10 years traveling both internationally and around the United States. This enabled me to get a vast amount experience in different jobs as well as seeing different cultures and communities. It has given my a wealth of knowledge in both business and customer service as well as hospitality. I am eager to get started with my career in this field and am looking to using my skills to start a successful career in the Computer Programming and Technology Industry.
 
-🖥️Full Stack Developer certificate from University of Denver
-🤔 I’m currently learning React and Computer Science
-📧 How to reach me: katlynboches@gmail.com
-🧘‍♀️ Hobbies: I enjoy hiking, slack-lining and yoga
+* 🖥️Full Stack Developer certificate from University of Denver
+* 🤔 I’m currently learning React and Computer Science
+* 📧 How to reach me: katlynboches@gmail.com
+* 🧘‍♀️ Hobbies: I enjoy hiking, slack-lining and yoga
 
 Want to see my resume? [Resume] (https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit)
 
