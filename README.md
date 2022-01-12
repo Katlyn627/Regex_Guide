@@ -21,7 +21,12 @@ Regular expressions can also be used from the command line and within text-edito
 - [Character Classes](#character-classes)
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
-- [Character Escapes](#character-escapes)
+- [Grouping and Capturing](#grouing-and-capturing)
+- [Bracket Expressions](#bracket-expressions)
+- [Greedy and Lazy Match](#greedy-and-lazy-match)
+- [Boundaries](#boundaries)
+- [Back-references](#back-refernces)
+- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
 
