@@ -25,7 +25,32 @@ Regular expressions can also be used from the command line and within text-edito
 
 ## Regex Components
 
+* Matching Fixed Strings
+* Matching Special Characters
+* Matching Character Sets
+* Specifying Groups and Fields
+* Evaluating Occurrences
+* Specifying Location
+* Specifying Alternatives
+* Matching Information from a Table
+* Capturing Multiple Lines
+* Managing the Scope of Analysis
+
 ### Anchors
+
+Anchors are characters within the regular expression that allow the user to match strings that either begin with, end with or sometimes begin and end with certain characters. 
+
+Examples of some Anchors are as follows:
+
+* `^` - matches any string that start with the anterior word
+* `$` - matches a string that end with preceeding word before the character
+* Examples:
+```
+^Hello          matches any string starting with `Hello`
+World$          matches any string ending with `World`
+^Hello World$   matches exact string
+goodbye         matches any string that has the exact text `goodbye` in it
+```
 
 ### Quantifiers
 
@@ -43,5 +68,16 @@ Regular expressions can also be used from the command line and within text-edito
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+I am a Colorado native and current student at the University of Denver enrolled in their full-stack coding boot-camp. In my free time I enjoy learning new skills such as American Sign Language and the development of video games, working on personal goals and helping my community. I enjoy hiking, camping and paddle-boarding. I enjoy spending time with family and friends playing board games like chess, and card games like cribbage and poker.
+
+After graduating from culinary school with a Bachelor's of Science in Food Service Management I decided on broadening my horizons and seeing the world. I am a travel enthusiast with skills in business, marketing, and computer programming. I spent the last 10 years traveling both internationally and around the United States. This enabled me to get a vast amount experience in different jobs as well as seeing different cultures and communities. It has given my a wealth of knowledge in both business and customer service as well as hospitality. I am eager to get started with my career in this field and am looking to using my skills to start a successful career in the Computer Programming and Technology Industry.
+
+🖥️Full Stack Developer certificate from University of Denver
+🤔 I’m currently learning React and Computer Science
+📧 How to reach me: katlynboches@gmail.com
+🧘‍♀️ Hobbies: I enjoy hiking, slack-lining and yoga
+
+Want to see my resume? Click here! 
+
+GitHub Repository: [GitHub] (https://github.com/Katlyn627/Regex_Guide)
 
